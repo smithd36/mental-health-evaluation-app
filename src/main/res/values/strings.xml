@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">phq9</string>
+
+    <string name="title">PHQ-9 Patient Survey</string>
+
+    <string name="initial_prompt">To start the survey, fill in ID and date fields below.</string>
+    <string name="hello">Hello, </string>
+
+    <string name="validate_input">All fields are required</string>
+
+    <string name="name">Your Name</string>
+    <string name="date">Current Date</string>
+    <string name="id">ID Number</string>
+
+    <string name="begin_survey">Begin Survey</string>
+
+    <string name="survey_header">Over the last 2 weeks, how often have you been
+bothered by any of the following problems?</string>
+
+    <string name="validate_answer">Please select an answer before moving on.</string>
+
+    <string name="progress_bar">0% Complete.</string>
+
+    <string name="zero">Not At All</string>
+    <string name="one">Several Days</string>
+    <string name="two">More than half the days</string>
+    <string name="three">Nearly Every Day</string>
+
+    <string name="next_question">Next</string>
+    <string name="previous_question">Back</string>
+    <string name="back">Back To Home</string>
+
+    <string name="minimal_depression">Minimal Depression</string>
+    <string name="mild_depression">Mild Depression</string>
+    <string name="moderate_depression">Moderate Depression</string>
+    <string name="moderately_severe_depression">Moderately Severe Depression</string>
+    <string name="severe_depression">Severe Depression</string>
+    <string name="no_severity">Results indicate that you selected "None at all" for all questions.</string>
+
+    <string name="phq9_result">Your PHQ-9 Result</string>
+    <string name="total_score">Total Score: </string>
+    <string name="severity">Severity: </string>
+    <string name="ok">Ok</string>
+
+    <string-array name="survey_questions">
+        <item name="question_one">Little interest or pleasure in doing things</item>
+        <item name="question_two">Feeling down, depressed, or hopeless</item>
+        <item name="question_three">Trouble falling or staying asleep, or sleeping too much</item>
+        <item name="question_four">Feeling tired or having little energy</item>
+        <item name="question_five">Poor appetite or overeating</item>
+        <item name="question_six">Feeling bad about yourself or that you are a failure or
+    have let yourself or your family down</item>
+        <item name="question_seven">Trouble concentrating on things, such as reading the
+    newspaper or watching television</item>
+        <item name="question_eight">Moving or speaking so slowly that other people could
+    have noticed. Or the opposite being so figety or
+    restless that you have been moving around a lot more
+    than usual</item>
+        <item name="question_nine">Thoughts that you would be better off dead, or of
+    hurting yourself</item>
+    </string-array>
+
+    <string name="question_ten">If you checked off any problems, how difficult
+        have these problems made it for you to do your work, take care of things at home, or get
+        along with other people?</string>
+    <string name="not_difficult">Not Difficult at All</string>
+    <string name="somewhat_difficult">Somewhat Difficult</string>
+    <string name="very_difficult">Very Difficult</string>
+    <string name="extreme_difficult">Extremely Difficult</string>
+
+    <string name="consider_disorder">Consider a depressive disorder.</string>
+
+</resources>
